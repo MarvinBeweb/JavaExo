@@ -7,7 +7,7 @@ import exercices.recursivite.suites.fibonacci.SuiteFibo;
 
 /**
  *
- * @author francois-flachet
+ * @author marvin
  */
 public class Exercices {
 
